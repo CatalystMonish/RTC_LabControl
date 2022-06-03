@@ -40,10 +40,10 @@ String months[12]={"January", "February", "March", "April", "May", "June", "July
 
 
 //defining pins
-#define RELAY_PIN_1 D1   
-#define RELAY_PIN_2 D2   
-#define RELAY_PIN_3 D3   
-#define RELAY_PIN_4 D4   
+#define RELAY_PIN_1 D3   
+#define RELAY_PIN_2 D4   
+#define RELAY_PIN_3 D5   
+#define RELAY_PIN_4 D6   
 
 
 
